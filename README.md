@@ -10,6 +10,19 @@ I'm a Computer Science student at UC San Diego, interested in software engineeri
 - 🚀 Interested in building practical software tools with Python, Java, C++, FastAPI, and GitHub
 - 📊 Enjoy working on projects involving data processing, APIs, machine learning, and retrieval-based AI systems
 
+## Work Experience
+
+### Handshake AI — AI Trainer
+**November 2025 – Present**
+
+At Handshake AI, I work on AI training, prompt engineering, multimodal annotation, and quality evaluation tasks. My work focuses on improving the consistency and usability of training and evaluation data for model development.
+
+- Completed 361 annotation and prompt-engineering tasks involving structured schemas, taxonomy consistency, and versioned prompt templates
+- Maintained strong quality by incorporating reviewer feedback and using a standardized QA checklist
+- Achieved 81% “Meets/Exceeds Expectations” across completed tasks
+- Worked on multimodal tasks such as text-to-video prompt conversion and image-based key information extraction
+- Improved personal workflow through error tracking, spot-check audits, and repeated quality review
+
 ## Featured Projects
 
 ### 🤖 AI Transfer Assistant
