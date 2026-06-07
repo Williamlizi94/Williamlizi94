@@ -55,8 +55,8 @@ A C++ robotic arm prototype built during DAHacks.
 ## Tech Stack
 
 **Languages:** Python, Java, C, C++, HTML, CSS  
-**Tools & Frameworks:** FastAPI, Git, GitHub, Docker, Bash  
-**Topics:** Data Structures, Algorithms, Object-Oriented Programming, Machine Learning, RAG, API Development
+**Tools & Frameworks:** FastAPI, Git, GitHub, Docker, Bash, Claude, Cursor, Codex
+**Topics:** Data Structures, Algorithms, Object-Oriented Programming, Full-Stack, Machine Learning, RAG, API Development
 
 ## Leadership
 
