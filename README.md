@@ -4,7 +4,7 @@ I'm a Computer Science student at UC San Diego, interested in software engineeri
 
 ## About Me
 
-- 🎓 Computer Science student at UC San Diego with a 3.61 GPA
+- 🎓 Computer Science student at UC San Diego with a 3.64 GPA
 - 💻 Previously studied Computer Science at De Anza College with a 3.92 GPA
 - 🤖 Currently working as an AI Trainer, focusing on prompt engineering, multimodal annotation, structured data quality, and model evaluation
 - 🚀 Interested in building practical software tools with Python, Java, C++, FastAPI, and GitHub
@@ -12,16 +12,15 @@ I'm a Computer Science student at UC San Diego, interested in software engineeri
 
 ## Work Experience
 
-### Handshake AI — AI Trainer
+### Handshake AI — AI Trainer | Software Engineering Evaluator, Contractor
 **November 2025 – Present**
 
-At Handshake AI, I work on AI training, prompt engineering, multimodal annotation, and quality evaluation tasks. My work focuses on improving the consistency and usability of training and evaluation data for model development.
+At Handshake AI, I work on AI training, software engineering evaluation, prompt engineering, multimodal annotation, and quality evaluation tasks. My work focuses on improving the consistency, usability, and reliability of training and evaluation data for model development.
 
-- Completed 361 annotation and prompt-engineering tasks involving structured schemas, taxonomy consistency, and versioned prompt templates
-- Maintained strong quality by incorporating reviewer feedback and using a standardized QA checklist
-- Achieved 81% “Meets/Exceeds Expectations” across completed tasks
-- Worked on multimodal tasks such as text-to-video prompt conversion and image-based key information extraction
-- Improved personal workflow through error tracking, spot-check audits, and repeated quality review
+- Completed GitHub-based software engineering evaluation tasks across real-world open-source repositories, using Git, GitHub, and patch-based workflows to identify bugs, apply fixes, and produce validated code submissions
+- Modified source code and added targeted regression tests with Python, JavaScript/TypeScript, and project-specific test frameworks, improving coverage for edge cases and expected behaviors
+- Built structured task submissions with golden.patch, tests.patch, and task metadata, clearly separating solution changes from test validation to make submissions easier to review and validate
+- Validated fixes through automated workflows using Docker, Harbor, and CI-style testing, reducing false-positive submissions and improving overall task reliability
 
 ## Featured Projects
 
