@@ -10,52 +10,65 @@ I'm a Computer Science student at UC San Diego, interested in software engineeri
 - 🚀 Interested in building practical software tools with Python, Java, C++, FastAPI, and GitHub
 - 📊 Enjoy working on projects involving data processing, APIs, machine learning, and retrieval-based AI systems
 
-## Work Experience
+## Experience
 
 ### Handshake AI — AI Trainer | Software Engineering Evaluator, Contractor
+
 **November 2025 – Present**
 
-At Handshake AI, I work on AI training, software engineering evaluation, prompt engineering, multimodal annotation, and quality evaluation tasks. My work focuses on improving the consistency, usability, and reliability of training and evaluation data for model development.
+- Completed and submitted **361 GitHub-based software engineering evaluation tasks** across real-world open-source repositories, using **Git, GitHub, and patch-based workflows** to debug issues and deliver validated code submissions
+- Designed and refined **self-contained software engineering benchmarks for AI coding agents**, authoring task specifications, reference solutions, and regression verifiers to evaluate correctness across edge cases and hidden scenarios
+- Debugged and validated tasks through **Docker- and Harbor-based environments**, iterating across environment builds, static checks, rubric reviews, and multi-trial AI-agent evaluations to produce reliable and reproducible submissions
 
-- Completed GitHub-based software engineering evaluation tasks across real-world open-source repositories, using Git, GitHub, and patch-based workflows to identify bugs, apply fixes, and produce validated code submissions
-- Modified source code and added targeted regression tests with Python, JavaScript/TypeScript, and project-specific test frameworks, improving coverage for edge cases and expected behaviors
-- Built structured task submissions with golden.patch, tests.patch, and task metadata, clearly separating solution changes from test validation to make submissions easier to review and validate
-- Validated fixes through automated workflows using Docker, Harbor, and CI-style testing, reducing false-positive submissions and improving overall task reliability
+### Boolean Lab, University of California San Diego — Undergraduate Researcher
+
+*Machine Learning for Gene Expression Analysis*
+
+**April 2026 – Present**
+
+- Developed a **masked Transformer in PyTorch** and an end-to-end preprocessing pipeline for an 11.9 GB **GPL570** human gene-expression dataset containing 25,955 biological samples and 54,675 microarray probe-level features
+- Selected 258 informative probe features from the full dataset using **variance-based feature selection** and trained a **masked Transformer** to reconstruct hidden gene-expression values
+- Exploring **Transformer-based methods** for modeling **Boolean relationships** between gene-expression pairs
 
 ## Featured Projects
 
+### 🎓 AI Study Forge
+
+A full-stack AI study SaaS platform used by 50+ students to turn uploaded learning materials into structured study resources.
+
+- Generated notes, cheat sheets, flashcards, practice quizzes, and document-grounded AI tutor responses
+- Built a React/Vite dashboard and FastAPI RAG backend
+- Implemented Google OAuth, persistent study history, quiz review, and mistake tracking
+- Deployed on AWS with Docker, PostgreSQL, CloudFront, and a GitHub Actions CI/CD pipeline
+
+[Website](https://aistudyforge.com) | [GitHub](https://github.com/Williamlizi94/ai-study-forge)
+
+### 🎬 SceneForge AI
+
+An AI video pre-production platform that transforms a story idea into a complete production plan.
+
+- Generated screenplays, scene breakdowns, shot lists, video prompt packs, and publishing plans
+- Built with React, Next.js, TypeScript, and the OpenAI Responses API
+- Added queued generation jobs, structured JSON validation, progress tracking, and retry support
+- Implemented authenticated project storage using Cloudflare D1 and Drizzle ORM
+
+[Website](https://usesceneforge.com) | [GitHub](https://github.com/Williamlizi94/sceneforge-ai)
+
 ### 🤖 AI Transfer Assistant
-An RAG-based assistant built in Python to help students compare transfer-related documents and course options.
 
-- Built embedding-based retrieval with chunking and top-k search
-- Generated evidence-grounded responses so users can verify recommendations
-- Collected and cleaned professor profile/review data into JSON and CSV
-- Improved top-5 retrieval relevance from 90% to 97%
-- Optimized FastAPI endpoints with pagination, filtering, search, and aggregate stats
+A Python RAG assistant that helps students compare transfer-related documents, course options, and professor information.
 
-### 👥 Social Media Registration Interface
-A CLI-based Java registration and login system built for a social media-style application.
-
-- Led a 5-person team through design, planning, implementation, and testing
-- Implemented a custom HashTable for account and profile lookup
-- Used LinkedList and BST structures for user and interest indexing
-- Cleaned public test data into a consistent format for reliable testing
-
-### 🦾 Twin Robotic Arm — DAHacks Winner
-A C++ robotic arm prototype built during DAHacks.
-
-- Won DAHacks by building a functional twin robotic-arm prototype
-- Used 3D-printed parts and improved the structure through assembly and debugging
-- Controlled actuators and motors with C++ firmware
-- Built a working prototype within one week through team collaboration
-
-[Demo Video](https://www.youtube.com/watch?v=uDYK499Z6yE&t=67s)
+- Built embedding-based retrieval using chunking and top-k search
+- Generated evidence-grounded responses linked to original sources
+- Created a Python pipeline for collecting and exporting professor data in JSON/CSV
+- Improved top-five retrieval relevance from 90% to 97%
+- Optimized FastAPI endpoints to achieve approximately 2.0s average latency
 
 ## Tech Stack
 
-**Languages:** Python, Java, C, C++, HTML, CSS  
-**Tools & Frameworks:** FastAPI, Git, GitHub, Docker, Bash, Claude, Cursor, Codex  
-**Topics:** Data Structures, Algorithms, Object-Oriented Programming, Full-Stack, Machine Learning, RAG, API Development
+**Languages:** Python, Java, C/C++, JavaScript/TypeScript, SQL  
+**AI & Frameworks:** PyTorch, Transformer Models, RAG, FastAPI, REST APIs, React, Next.js, Vite  
+**Cloud & Tools:** AWS, Cloudflare D1, Docker, PostgreSQL, Drizzle ORM, Git/GitHub, GitHub Actions, CI/CD
 
 ## Leadership
 
