@@ -5,10 +5,10 @@ I'm a Computer Science student at UC San Diego, interested in software engineeri
 ## About Me
 
 - 🎓 Computer Science student at UC San Diego with a 3.64 GPA
-- 💻 Previously studied Computer Science at De Anza College with a 3.92 GPA
-- 🤖 AI Trainer and Software Engineering Evaluator at Handshake AI, working on prompt engineering, multimodal annotation, model evaluation, and GitHub-based coding evaluation tasks
-- 🚀 Interested in building practical software tools with Python, Java, C++, FastAPI, and GitHub
-- 📊 Enjoy working on projects involving data processing, APIs, machine learning, and retrieval-based AI systems
+- 🧪 Undergraduate Researcher at UC San Diego’s Boolean Lab, applying PyTorch and Transformer models to large-scale human gene-expression data
+- 💻 AI Trainer and Software Engineering Evaluator at Handshake AI, designing and validating software engineering benchmarks for AI coding agents
+- 🚀 Interested in building practical software tools with Python, Java, C++, FastAPI, React, and GitHub
+- 📊 Enjoy working on projects involving data processing, APIs, machine learning, RAG, and cloud deployment
 
 ## Experience
 
