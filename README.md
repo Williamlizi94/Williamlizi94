@@ -54,15 +54,15 @@ An AI video pre-production platform that transforms a story idea into a complete
 
 [Website](https://usesceneforge.com) | [GitHub](https://github.com/Williamlizi94/sceneforge-ai)
 
-### 🤖 AI Transfer Assistant
+### 🛡️ CodeGuardian
 
-A Python RAG assistant that helps students compare transfer-related documents, course options, and professor information.
+An AI-powered code review platform built to turn raw source code into structured, actionable engineering feedback.
 
-- Built embedding-based retrieval using chunking and top-k search
-- Generated evidence-grounded responses linked to original sources
-- Created a Python pipeline for collecting and exporting professor data in JSON/CSV
-- Improved top-five retrieval relevance from 90% to 97%
-- Optimized FastAPI endpoints to achieve approximately 2.0s average latency
+- Built **CodeGuardian** to automate code review across repositories, files, and code snippets, helping developers identify issues and improve code quality.
+- Developed an asynchronous backend with **Python, FastAPI, Celery, and Redis**, combining static analysis with **LLM reasoning** for scalable code analysis.
+- Generated structured, line-level findings and remediation suggestions while integrating **GitHub, GitLab, and Bitbucket** review workflows.
+
+[Website](https://reviewcodeai.com) | [GitHub](https://github.com/Williamlizi94/Code_Review_Project)
 
 ## Tech Stack
 
